@@ -11,7 +11,7 @@ the project was inspierd by "sonny sangha "
 3. confirm the payment and be directed to the bayment checkout 
 
 
-## you can cee a live preview here 
+## you can see a live preview here 
 
 https://amazon-clone-v1-indol.vercel.app/
 
