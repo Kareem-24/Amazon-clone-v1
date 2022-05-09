@@ -9,5 +9,9 @@ This is an Amazon clone made using (React.js , pure CSS , firebase, context api 
 3. confirm the payment and be directed to the bayment checkout 
 
 
+## you can cee a live preview here 
+
+https://amazon-clone-v1-indol.vercel.app/
+
 
 ![Capture](https://user-images.githubusercontent.com/80011249/167414851-b475c388-f059-4f18-bb34-42fcdd21514f.PNG)
