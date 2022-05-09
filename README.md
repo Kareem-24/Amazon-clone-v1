@@ -2,6 +2,7 @@
 
 ## Description 
 This is an Amazon clone made using (React.js , pure CSS , firebase, context api ) and more .
+
 the project was inspierd by "sonny sangha "
 
 ## what can user do ? 
