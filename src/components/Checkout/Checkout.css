@@ -1,0 +1,22 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  /* margin: 10px 20px 15px 15px; */
+  height: max-content;
+}
+
+.checkout-title {
+  margin-right: 10px;
+  padding: 15px;
+  border-bottom: 1px solid lightgray;
+}
+
+.checkout-left {
+  flex: 1;
+}
+
+@media (maz-width: 767px) {
+  .checkout-right {
+    font-size: 0.6rem;
+  }
+}
